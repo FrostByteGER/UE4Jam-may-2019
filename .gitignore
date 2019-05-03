@@ -1,5 +1,6 @@
 Binaries
 DerivedDataCache
+Build
 Intermediate
 Saved
 .vscode
@@ -13,4 +14,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 _ReSharper.Caches
-Ares.sln.DotSettings.user
+UE4JamGame.sln.DotSettings.user
